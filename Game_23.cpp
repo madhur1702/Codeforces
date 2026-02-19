@@ -8,7 +8,7 @@ int main()
     {
         cout<<-1;
         return 0;
-    }
+    }  
     int x = m/n,move = 0;
     while(x%2 == 0)
     {
