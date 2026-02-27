@@ -5,7 +5,7 @@ int main()
     int n;
     cin>>n;
     vector<int> row(n,0),col(n,0);
-    vector<vector<int>> a(n,vector<int>(n));
+    vector<vector<int>> a(n,vector<int>(n)); 
     for(int i=0;i<n;i++)
     {
         for(int j = 0;j<n;j++)
